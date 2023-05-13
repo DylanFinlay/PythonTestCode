@@ -1,4 +1,4 @@
-#Addition
+#Addition, subtraction, modulus, floor division, decimal division, and multiplication
 
 def add(x, y):
     return x + y 
